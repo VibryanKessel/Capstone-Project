@@ -1,6 +1,6 @@
 # Capstone-Project
 
-<div align="center" height= "30">
+<div align="center">
 
   ![image](https://github.com/VibryanKessel/Capstone-Project/assets/87503137/7ee7c3d7-1adb-49be-994f-4c4d51db8126
   
