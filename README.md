@@ -2,9 +2,9 @@
 
 <div align="center">
 
-    <img src="[path/to/aws-logo.png](https://th.bing.com/th?id=OIP.tFl-8wQUENETYLjX5mYWuAAAAA&w=200&h=150&c=8&rs=1&bgcl=639d5c&r=0&o=6&dpr=1.3&pid=5.1)" alt="AWS Logo" width="200" height="100"/>
+  ![image](https://github.com/VibryanKessel/Capstone-Project/assets/87503137/7ee7c3d7-1adb-49be-994f-4c4d51db8126)
+![image](https://github.com/VibryanKessel/Capstone-Project/assets/87503137/364ee1ae-be7e-4e75-b79d-5e0c58566a67)
 
-    <img src="https://th.bing.com/th?id=OIP.8QKKv9jT4qkVxBKRsssgYAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="Efrei Logo" width="200" height="100"/>
 
 </div>
 
